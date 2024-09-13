@@ -58,5 +58,7 @@ https://github.com/pankajchopra/togaf.git
 togaf 10 examination
 ----------------------
 https://www.examtopics.com/exams/the-open-group/og0-093/view/
+https://www.dumpsbase.com/freedumps/new-og0-093-togaf-exam-questions-pdf.html
+https://www.youtube.com/playlist?list=PLiKi2fmsDHN6vBv9c5QjtctIin8jpFYM9
 
 Amazon Web Services (AWS)|AWS Cloud Directory
